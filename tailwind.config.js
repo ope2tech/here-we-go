@@ -22,7 +22,7 @@ dark: '#fee5bc',
          },  
       },
       animation: {
-        'open-menu': 'opem-menu 0.5s ease-in-out forwards',
+        'open-menu': 'open-menu 0.5s ease-in-out forwards',
       }
     },
   },
